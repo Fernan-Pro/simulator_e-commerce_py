@@ -1,0 +1,2 @@
+Inicialize la e_commerce en le archivo menu.py
+¡ Esto es simulador de una e_commerce, guardo los datos en archivos txt !
